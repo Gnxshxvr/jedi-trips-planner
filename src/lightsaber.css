@@ -1,0 +1,60 @@
+
+/* Blue Lightsaber Cursor */
+* {
+  cursor: none !important;
+}
+
+body {
+  cursor: none !important;
+}
+
+.lightsaber-cursor {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 6px;
+  background: linear-gradient(90deg, #00bfff 0%, #ffffff 50%, #00bfff 100%);
+  pointer-events: none;
+  z-index: 9999;
+  transform: rotate(-45deg);
+  border-radius: 3px;
+  box-shadow: 
+    0 0 8px #00bfff,
+    0 0 16px #00bfff,
+    0 0 24px #00bfff,
+    0 0 32px #00bfff;
+  animation: pulse 2s infinite;
+  transition: transform 0.1s ease;
+}
+
+.lightsaber-cursor::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: -8px;
+  transform: translateY(-50%);
+  width: 8px;
+  height: 8px;
+  background: #666666;
+  border-radius: 2px;
+  box-shadow: 0 0 3px #333333;
+}
+
+.lightsaber-cursor.clicking {
+  transform: rotate(-45deg) scale(1.2);
+  box-shadow: 
+    0 0 12px #00bfff,
+    0 0 24px #00bfff,
+    0 0 36px #00bfff,
+    0 0 48px #00bfff;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.8;
+  }
+}
