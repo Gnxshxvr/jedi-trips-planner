@@ -1,10 +1,8 @@
-# jedi-trips-planner
 
-"Jedi trips planner" is a Star Wars Themed Trips planner enabling easy and convenient planning for you Trips, "Do. Or do not. There is no try" as said by yoda , we have added a fantasy touch to the website by introducing few Star Wars destinations along with our planet's beautiful destinations and even crosswired our JediTripBot to give that starwars feel when you converse with him . Searching for that easter egg? click our icon on top left 3 times and find it away.
 
-Our JediMissions tab enables you to get information regarding your trip with best iternary
 
 🌌 Welcome to Jedi Trips Planner 🌌
+
 Your Ultimate Star Wars-Themed Travel Companion
 
 "Do. Or do not. There is no try."
