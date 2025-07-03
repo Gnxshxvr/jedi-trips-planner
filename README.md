@@ -6,8 +6,8 @@
 Your Ultimate Star Wars-Themed Travel Companion
 
 "Do. Or do not. There is no try."
-
-                                 —  Master Yoda
+                                        
+.                                 —  Master Yoda
 
 At Jedi Trips Planner, we combine the magic of Star Wars with the beauty of real-world exploration. This unique platform empowers you to plan your adventures effortlessly while immersing yourself in a galaxy far, far away.
 
