@@ -38,6 +38,7 @@ Jedi Trips Planner envisions a *freemium business model*, providing significant 
 Because you’re not just planning a trip — You’re embarking on a mission. One filled with adventure, discovery, and just the right amount of Force.
 
 🔗 Website URL:  https://jedi-trips-plannerf.vercel.app/
+🔗 Demonstration URL:  https://www.youtube.com/watch?v=FVAqoEoaF0g
 
 NOTE: This website is deployed using VERCEL 
 NOTE: Many of the details (such as numerical values in travel options, destinations and profiles) are currently pseudo-random placeholder values and destination places could be easily changed as new data is integrated.
