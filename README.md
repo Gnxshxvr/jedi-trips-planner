@@ -23,6 +23,17 @@ This mission was built using a Fullstack approach, blending front-end technologi
 🔧 Problem Statement
 In a galaxy of overwhelming travel options, planning a trip can feel like a difficult mission. Jedi Trips Planner was created to simplify this process, helping you plan your dream trips within India. The platform assists users in discovering unique destinations, offers personalized itineraries, and makes the entire journey planning as seamless as a Jedi mind trick. Whether you're exploring bustling cities, tranquil landscapes, culturally rich destinations,or just looking forward to explore mythical realm of Star Wars in your device, our tool provides the most optimized routes for your rebel adventure.
 
+💲Business Model
+Jedi Trips Planner envisions a *freemium business model*, providing significant value upfront while offering premium upgrades for enhanced features:
+
+**Free Tier:** Users can access core planning functionalities, explore destinations, and interact with the basic capabilities of the JediTripBot. This serves as a strong entry point to attract a wide user base and demonstrate the platform's unique value.
+**"Jedi Master"** Premium Subscription (Hypothetical):* This paid tier would unlock:
+    * Unlimited Trip Planning: Removal of any potential limits on the number of missions users can plan or save.
+    * Advanced AI Assistance: Enhanced capabilities for JediTripBot, offering deeper insights, more personalized recommendations, and potentially proactive suggestions based on user history.
+    * Exclusive Star Wars Content: Access to premium, highly-detailed Star Wars-inspired locations, unique themed itineraries, and exclusive digital assets.  
+**Partnership Benefits:** Potential discounts or exclusive offers through hypothetical partnerships with real-world travel agencies, Star Wars attractions (like theme parks), or merchandise vendors.
+**Future Monetization Avenues:** Potential for targeted advertising based on anonymized user preferences (e.g., for travel gear, Star Wars collectibles) and affiliate marketing through integrated travel booking links (once backend functionality is added).
+
 🛸 Why Choose Jedi Trips Planner?
 Because you’re not just planning a trip — You’re embarking on a mission. One filled with adventure, discovery, and just the right amount of Force.
 
