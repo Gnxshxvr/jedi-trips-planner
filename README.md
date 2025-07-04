@@ -39,5 +39,6 @@ Because you’re not just planning a trip — You’re embarking on a mission. O
 
 🔗 Website URL:  https://jedi-trips-plannerf.vercel.app/
 
-Note: Many of the details (such as numerical values in travel options, destinations and profiles) are currently pseudo-random placeholder values and destination places could be easily changed as new data is integrated.
+NOTE: This website is deployed using VERCEL 
+NOTE: Many of the details (such as numerical values in travel options, destinations and profiles) are currently pseudo-random placeholder values and destination places could be easily changed as new data is integrated.
 
